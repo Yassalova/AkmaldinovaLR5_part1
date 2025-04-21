@@ -33,7 +33,7 @@ void EnterDigit(int& varLink, const string& label) {
 
 // Вычисление площади прямоугольника
 int CalcRectangleArea(int NumberA, int NumberB) {
-    return NumberA * NumberB;
+    return NumberA * NumberB +10;
 }
 
 #endif
